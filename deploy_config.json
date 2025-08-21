@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/weifeng-wf/Boke.git",
+  "branch": "main",
+  "message": "Site updated: {{ now(\"YYYY-MM-DD HH:mm:ss\") }}",
+  "token": "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"
+}
